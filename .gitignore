@@ -146,3 +146,4 @@ cython_debug/
 /train_data_combine
 /train_data_combine_11M
 /valid_data_combine
+core
