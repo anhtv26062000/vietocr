@@ -4,7 +4,8 @@ pretrain:
     cached: /tmp/tranformerorc.pth
 
 # url or local path
-weights: https://drive.google.com/uc?id=1nTKlEog9YFK74kPyX0qLwCWi60_YHHk4
+# weights: https://drive.google.com/uc?id=1nTKlEog9YFK74kPyX0qLwCWi60_YHHk4
+weights: ./weights/seq2seq_1mit_0.0003lr.pth
 
 backbone: vgg19_bn
 cnn:

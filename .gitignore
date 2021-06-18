@@ -136,3 +136,13 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Viet Anh's addition
+/checkpoint
+/weights
+*.pth
+*.log
+/dataset_vietocr
+/train_data_combine
+/train_data_combine_11M
+/valid_data_combine
